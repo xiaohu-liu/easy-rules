@@ -20,6 +20,9 @@
         <module>easy-rules-support</module>
         <module>easy-rules-spel</module>
         <module>easy-rules-jexl</module>
+        <module>easy-rules-fel</module>
+        <module>easy-rules-qle</module>
+        <module>easy-rules-aviator</module>
     </modules>
 
     <packaging>pom</packaging>
