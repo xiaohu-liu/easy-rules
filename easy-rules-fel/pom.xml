@@ -64,8 +64,9 @@
         <dependency>
             <groupId>com.greenpineyu</groupId>
             <artifactId>fel-all</artifactId>
+            <version>${fel-all.version}</version>
             <scope>system</scope>
-            <systemPath>${project.basedir}/../libs/fel-all-0.9/fel.jar</systemPath>
+            <systemPath>${project.basedir}/../libs/fel.jar</systemPath>
         </dependency>
 
         <dependency>
