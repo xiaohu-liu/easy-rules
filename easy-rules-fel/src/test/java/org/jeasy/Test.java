@@ -10,7 +10,7 @@ import java.util.Map;
 
 public class Test {
 
-    @org.junit.Test
+   /* @org.junit.Test*/
     public void t2() {
         FelEngine fel = new FelEngineImpl();
         FelContext ctx = fel.getContext();
@@ -22,7 +22,7 @@ public class Test {
         System.out.println(result);
     }
 
-    @org.junit.Test
+  /*  @org.junit.Test*/
     public void t3() {
         FelEngine fel = new FelEngineImpl();
         FelContext ctx = fel.getContext();
